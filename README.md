@@ -5,4 +5,6 @@ It's come practice changes in my readme to test the git commands
 2. clone repository
 3. create a new branch
 4. can edit o make changes in the project
- 
+5. make a pull and the push the changes
+
+it's a bit step by step to create and pull our projects 
